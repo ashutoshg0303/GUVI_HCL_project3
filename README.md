@@ -22,17 +22,22 @@ Using Python for data cleaning & exploration and Tableau for visualization, we b
 traffic-accident-analysis/
 │
 ├── data/
-│   ├── traffic_accidents.csv
+│   ├── traffic_accident_records.csv
 │   └── traffic_accidents_cleaned.csv
 │
 ├── scripts/
-│   └── traffic_accident_analysis.py
+│   └── traffic_accident.py
 │
 ├── dashboard/
-│   └── traffic_accident_dashboard.twbx
+│   └── Traffic_Accident_Analysis_Dashboard.twbx
 │
-├── presentation/
-│   └── Traffic_Accident_Analysis_PPT.pptx
+├── screenshot/
+│   └── Screenshot (488).png
+│   └── Screenshot (489).png
+│   └── Screenshot (490).png
+│   └── Screenshot (491).png
+│   └── Screenshot (492).png
+│   └── Screenshot (493).png
 │
 ├── README.md
 └── requirements.txt
