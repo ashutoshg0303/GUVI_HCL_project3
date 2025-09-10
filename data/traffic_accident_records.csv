@@ -1,0 +1,151 @@
+Accident_ID,Date,State,Time,Weather,Vehicles_Involved,Severity,Casualties,Vehicle_Type
+A0001,01-01-2022,Tamil Nadu,20:07,Cloudy,2,Serious,1,Truck
+A0002,02-01-2022,Karnataka,00:47,Cloudy,4,Serious,2,Truck
+A0003,03-01-2022,Uttar Pradesh,08:15,Foggy,3,Fatal,5,Bike
+A0004,04-01-2022,Karnataka,07:08,Cloudy,3,Minor,2,Bus
+A0005,05-01-2022,Karnataka,23:06,Snowy,2,Minor,4,Car
+A0006,06-01-2022,Maharashtra,21:47,Cloudy,1,Serious,4,Bus
+A0007,07-01-2022,Uttar Pradesh,17:05,Foggy,2,Minor,1,Auto
+A0008,08-01-2022,Uttar Pradesh,18:27,Foggy,1,Minor,3,Truck
+A0009,09-01-2022,Uttar Pradesh,01:01,Snowy,4,Minor,5,Car
+A0010,10-01-2022,Karnataka,02:13,Rainy,3,Minor,1,Car
+A0011,11-01-2022,Tamil Nadu,07:32,Rainy,4,Fatal,3,Auto
+A0012,12-01-2022,Uttar Pradesh,19:01,Cloudy,1,Serious,3,Auto
+A0013,13-01-2022,West Bengal,17:12,Clear,1,Serious,4,Bike
+A0014,14-01-2022,Karnataka,22:41,Cloudy,4,Minor,0,Truck
+A0015,15-01-2022,Maharashtra,22:34,Snowy,1,Minor,0,Truck
+A0016,16-01-2022,Tamil Nadu,13:14,Snowy,4,Minor,2,Bus
+A0017,17-01-2022,West Bengal,14:37,Snowy,3,Minor,4,Bike
+A0018,18-01-2022,West Bengal,08:51,Snowy,4,Minor,3,Bike
+A0019,19-01-2022,Maharashtra,00:48,Snowy,3,Serious,5,Bike
+A0020,20-01-2022,Tamil Nadu,05:44,Foggy,4,Serious,0,Bike
+A0021,21-01-2022,Karnataka,13:21,Rainy,1,Minor,3,Truck
+A0022,22-01-2022,Delhi,08:09,Snowy,4,Fatal,0,Truck
+A0023,23-01-2022,Tamil Nadu,06:48,Clear,1,Serious,0,Bike
+A0024,24-01-2022,Maharashtra,10:06,Clear,4,Minor,0,Bus
+A0025,25-01-2022,West Bengal,02:24,Clear,4,Serious,5,Car
+A0026,26-01-2022,Karnataka,03:22,Clear,2,Minor,4,Car
+A0027,27-01-2022,Tamil Nadu,11:38,Foggy,1,Minor,5,Bus
+A0028,28-01-2022,Delhi,08:51,Clear,2,Minor,1,Bike
+A0029,29-01-2022,Delhi,01:46,Snowy,1,Serious,3,Truck
+A0030,30-01-2022,Uttar Pradesh,14:34,Cloudy,2,Minor,4,Car
+A0031,31-01-2022,Uttar Pradesh,03:59,Clear,3,Minor,4,Auto
+A0032,01-02-2022,Maharashtra,12:05,Foggy,4,Minor,4,Auto
+A0033,02-02-2022,Tamil Nadu,17:18,Foggy,1,Minor,4,Bus
+A0034,03-02-2022,Tamil Nadu,20:39,Clear,1,Serious,5,Bike
+A0035,04-02-2022,West Bengal,11:36,Cloudy,4,Serious,4,Car
+A0036,05-02-2022,West Bengal,06:45,Clear,1,Minor,2,Bike
+A0037,06-02-2022,West Bengal,02:02,Foggy,1,Minor,3,Car
+A0038,07-02-2022,Uttar Pradesh,21:14,Rainy,2,Minor,4,Bus
+A0039,08-02-2022,Tamil Nadu,09:05,Snowy,1,Minor,3,Bus
+A0040,09-02-2022,Tamil Nadu,07:55,Foggy,3,Minor,2,Auto
+A0041,10-02-2022,Delhi,03:24,Clear,3,Minor,2,Bike
+A0042,11-02-2022,Uttar Pradesh,08:29,Snowy,4,Minor,3,Auto
+A0043,12-02-2022,Karnataka,20:53,Clear,1,Serious,0,Bike
+A0044,13-02-2022,Uttar Pradesh,11:10,Clear,4,Serious,1,Auto
+A0045,14-02-2022,Karnataka,11:22,Rainy,3,Minor,0,Truck
+A0046,15-02-2022,Delhi,06:42,Snowy,1,Minor,0,Truck
+A0047,16-02-2022,Maharashtra,08:44,Snowy,1,Serious,5,Truck
+A0048,17-02-2022,Tamil Nadu,21:41,Rainy,4,Minor,0,Truck
+A0049,18-02-2022,Delhi,02:38,Foggy,3,Serious,4,Car
+A0050,19-02-2022,Tamil Nadu,20:10,Clear,1,Serious,5,Truck
+A0051,20-02-2022,West Bengal,17:46,Cloudy,4,Minor,5,Bus
+A0052,21-02-2022,Maharashtra,07:10,Clear,3,Minor,2,Bus
+A0053,22-02-2022,Maharashtra,14:24,Clear,4,Serious,0,Car
+A0054,23-02-2022,Delhi,08:59,Foggy,2,Minor,2,Truck
+A0055,24-02-2022,Maharashtra,20:44,Clear,1,Minor,3,Truck
+A0056,25-02-2022,Karnataka,17:14,Rainy,2,Fatal,1,Truck
+A0057,26-02-2022,Maharashtra,21:20,Rainy,3,Minor,5,Auto
+A0058,27-02-2022,Tamil Nadu,01:14,Snowy,2,Minor,3,Bike
+A0059,28-02-2022,Tamil Nadu,01:51,Cloudy,2,Serious,3,Auto
+A0060,01-03-2022,Tamil Nadu,10:25,Clear,3,Minor,4,Bike
+A0061,02-03-2022,Tamil Nadu,08:04,Clear,4,Minor,1,Truck
+A0062,03-03-2022,Karnataka,06:58,Foggy,2,Fatal,3,Truck
+A0063,04-03-2022,Uttar Pradesh,18:56,Rainy,4,Minor,3,Auto
+A0064,05-03-2022,West Bengal,22:20,Cloudy,2,Fatal,1,Auto
+A0065,06-03-2022,Delhi,06:41,Snowy,4,Fatal,1,Bike
+A0066,07-03-2022,Tamil Nadu,15:25,Rainy,3,Minor,3,Bus
+A0067,08-03-2022,Maharashtra,20:29,Snowy,2,Minor,1,Bike
+A0068,09-03-2022,Tamil Nadu,04:16,Foggy,3,Minor,3,Auto
+A0069,10-03-2022,Maharashtra,04:15,Foggy,2,Minor,3,Auto
+A0070,11-03-2022,West Bengal,23:35,Clear,3,Minor,4,Car
+A0071,12-03-2022,West Bengal,17:16,Cloudy,3,Serious,0,Auto
+A0072,13-03-2022,West Bengal,23:37,Snowy,2,Minor,3,Car
+A0073,14-03-2022,Maharashtra,13:57,Rainy,2,Minor,2,Bus
+A0074,15-03-2022,Tamil Nadu,18:25,Foggy,2,Serious,5,Bike
+A0075,16-03-2022,West Bengal,11:14,Clear,1,Minor,0,Bike
+A0076,17-03-2022,Karnataka,04:32,Clear,4,Serious,0,Car
+A0077,18-03-2022,Maharashtra,15:05,Snowy,1,Minor,0,Bike
+A0078,19-03-2022,Maharashtra,01:55,Foggy,1,Minor,4,Auto
+A0079,20-03-2022,Tamil Nadu,03:09,Cloudy,3,Serious,3,Truck
+A0080,21-03-2022,Maharashtra,20:10,Foggy,2,Serious,4,Car
+A0081,22-03-2022,Maharashtra,21:27,Snowy,4,Serious,3,Bike
+A0082,23-03-2022,West Bengal,19:04,Snowy,3,Serious,4,Car
+A0083,24-03-2022,Tamil Nadu,12:24,Foggy,1,Serious,4,Car
+A0084,25-03-2022,West Bengal,19:29,Snowy,2,Minor,5,Truck
+A0085,26-03-2022,West Bengal,16:16,Foggy,3,Minor,2,Auto
+A0086,27-03-2022,Tamil Nadu,17:55,Rainy,2,Serious,4,Car
+A0087,28-03-2022,Delhi,00:43,Foggy,3,Serious,5,Bike
+A0088,29-03-2022,West Bengal,23:07,Foggy,2,Fatal,1,Bus
+A0089,30-03-2022,Karnataka,21:56,Snowy,1,Minor,2,Car
+A0090,31-03-2022,Karnataka,17:48,Snowy,4,Minor,4,Car
+A0091,01-04-2022,Maharashtra,08:49,Clear,1,Serious,0,Truck
+A0092,02-04-2022,Karnataka,20:21,Clear,4,Minor,1,Auto
+A0093,03-04-2022,Maharashtra,03:18,Rainy,2,Fatal,1,Bus
+A0094,04-04-2022,Delhi,13:10,Clear,3,Serious,5,Bike
+A0095,05-04-2022,Tamil Nadu,14:00,Foggy,1,Minor,1,Bus
+A0096,06-04-2022,Tamil Nadu,23:56,Snowy,4,Serious,2,Bike
+A0097,07-04-2022,Tamil Nadu,23:16,Clear,1,Serious,4,Auto
+A0098,08-04-2022,Karnataka,16:48,Clear,4,Minor,4,Bike
+A0099,09-04-2022,Delhi,05:32,Rainy,1,Fatal,0,Truck
+A0100,10-04-2022,Karnataka,03:55,Rainy,4,Minor,5,Truck
+A0101,11-04-2022,Karnataka,20:19,Foggy,4,Serious,0,Truck
+A0102,12-04-2022,Delhi,20:32,Snowy,2,Minor,1,Truck
+A0103,13-04-2022,Delhi,19:12,Rainy,4,Serious,0,Bus
+A0104,14-04-2022,Delhi,04:23,Clear,2,Minor,2,Auto
+A0105,15-04-2022,Delhi,05:34,Snowy,4,Minor,4,Bike
+A0106,16-04-2022,Tamil Nadu,16:58,Snowy,3,Fatal,1,Bike
+A0107,17-04-2022,Uttar Pradesh,00:38,Clear,3,Minor,0,Truck
+A0108,18-04-2022,Uttar Pradesh,10:31,Rainy,3,Minor,5,Truck
+A0109,19-04-2022,Delhi,00:07,Clear,4,Fatal,2,Car
+A0110,20-04-2022,Uttar Pradesh,11:56,Snowy,2,Fatal,2,Auto
+A0111,21-04-2022,Uttar Pradesh,09:15,Cloudy,2,Minor,0,Bus
+A0112,22-04-2022,Delhi,01:15,Cloudy,4,Serious,4,Bike
+A0113,23-04-2022,Uttar Pradesh,18:05,Foggy,3,Minor,0,Car
+A0114,24-04-2022,Karnataka,02:46,Clear,3,Minor,1,Car
+A0115,25-04-2022,Maharashtra,15:52,Clear,2,Minor,0,Bike
+A0116,26-04-2022,Maharashtra,02:48,Foggy,3,Serious,2,Bus
+A0117,27-04-2022,Delhi,17:49,Foggy,1,Serious,0,Car
+A0118,28-04-2022,Tamil Nadu,04:08,Foggy,2,Serious,4,Car
+A0119,29-04-2022,Delhi,21:30,Snowy,3,Serious,5,Auto
+A0120,30-04-2022,Tamil Nadu,17:10,Clear,2,Minor,3,Bus
+A0121,01-05-2022,Maharashtra,08:33,Snowy,1,Minor,0,Car
+A0122,02-05-2022,Delhi,19:27,Foggy,2,Minor,4,Bus
+A0123,03-05-2022,West Bengal,06:59,Clear,2,Minor,4,Bike
+A0124,04-05-2022,Karnataka,17:48,Snowy,2,Minor,5,Truck
+A0125,05-05-2022,Uttar Pradesh,23:44,Snowy,2,Serious,2,Car
+A0126,06-05-2022,Tamil Nadu,06:45,Foggy,1,Minor,4,Auto
+A0127,07-05-2022,West Bengal,09:25,Clear,4,Minor,4,Bike
+A0128,08-05-2022,Uttar Pradesh,21:41,Foggy,2,Minor,4,Bus
+A0129,09-05-2022,Uttar Pradesh,11:28,Clear,2,Serious,4,Bike
+A0130,10-05-2022,Delhi,16:28,Cloudy,3,Serious,1,Car
+A0131,11-05-2022,Uttar Pradesh,03:15,Rainy,2,Minor,1,Bus
+A0132,12-05-2022,Karnataka,07:04,Rainy,3,Minor,2,Truck
+A0133,13-05-2022,West Bengal,10:01,Rainy,4,Serious,0,Bike
+A0134,14-05-2022,Uttar Pradesh,18:35,Foggy,1,Minor,4,Car
+A0135,15-05-2022,Delhi,07:37,Cloudy,1,Serious,5,Auto
+A0136,16-05-2022,Karnataka,07:00,Clear,4,Serious,0,Bus
+A0137,17-05-2022,Maharashtra,02:45,Snowy,1,Minor,5,Bike
+A0138,18-05-2022,West Bengal,20:03,Clear,4,Minor,0,Bike
+A0139,19-05-2022,Uttar Pradesh,07:04,Snowy,4,Fatal,2,Truck
+A0140,20-05-2022,Delhi,01:55,Clear,4,Minor,4,Truck
+A0141,21-05-2022,Maharashtra,10:04,Cloudy,1,Minor,4,Auto
+A0142,22-05-2022,Maharashtra,16:15,Snowy,3,Serious,3,Auto
+A0143,23-05-2022,Tamil Nadu,08:42,Foggy,4,Fatal,5,Car
+A0144,24-05-2022,Karnataka,15:13,Clear,2,Fatal,0,Car
+A0145,25-05-2022,Uttar Pradesh,17:08,Clear,1,Serious,0,Auto
+A0146,26-05-2022,Delhi,23:59,Snowy,4,Minor,1,Auto
+A0147,27-05-2022,Tamil Nadu,18:36,Foggy,4,Minor,3,Bus
+A0148,28-05-2022,Karnataka,15:15,Foggy,2,Serious,1,Truck
+A0149,29-05-2022,Tamil Nadu,15:51,Cloudy,3,Minor,1,Car
+A0150,30-05-2022,West Bengal,13:12,Foggy,3,Minor,1,Truck

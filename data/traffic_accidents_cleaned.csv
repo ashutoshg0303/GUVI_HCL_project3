@@ -1,0 +1,151 @@
+Accident_ID,Date,State,Time,Weather,Vehicles_Involved,Severity,Casualties,Vehicle_Type,Hour,Year,Month,Day,Time_of_Day
+A0001,2022-01-01,Tamil Nadu,20:07,Cloudy,2,Serious,1,Truck,20,2022.0,1.0,1.0,Evening
+A0002,2022-02-01,Karnataka,00:47,Cloudy,4,Serious,2,Truck,0,2022.0,2.0,1.0,Night
+A0003,2022-03-01,Uttar Pradesh,08:15,Foggy,3,Fatal,5,Bike,8,2022.0,3.0,1.0,Morning
+A0004,2022-04-01,Karnataka,07:08,Cloudy,3,Minor,2,Bus,7,2022.0,4.0,1.0,Morning
+A0005,2022-05-01,Karnataka,23:06,Snowy,2,Minor,4,Car,23,2022.0,5.0,1.0,Night
+A0006,2022-06-01,Maharashtra,21:47,Cloudy,1,Serious,4,Bus,21,2022.0,6.0,1.0,Night
+A0007,2022-07-01,Uttar Pradesh,17:05,Foggy,2,Minor,1,Auto,17,2022.0,7.0,1.0,Evening
+A0008,2022-08-01,Uttar Pradesh,18:27,Foggy,1,Minor,3,Truck,18,2022.0,8.0,1.0,Evening
+A0009,2022-09-01,Uttar Pradesh,01:01,Snowy,4,Minor,5,Car,1,2022.0,9.0,1.0,Night
+A0010,2022-10-01,Karnataka,02:13,Rainy,3,Minor,1,Car,2,2022.0,10.0,1.0,Night
+A0011,2022-11-01,Tamil Nadu,07:32,Rainy,4,Fatal,3,Auto,7,2022.0,11.0,1.0,Morning
+A0012,2022-12-01,Uttar Pradesh,19:01,Cloudy,1,Serious,3,Auto,19,2022.0,12.0,1.0,Evening
+A0013,,West Bengal,17:12,Clear,1,Serious,4,Bike,17,,,,Evening
+A0014,,Karnataka,22:41,Cloudy,4,Minor,0,Truck,22,,,,Night
+A0015,,Maharashtra,22:34,Snowy,1,Minor,0,Truck,22,,,,Night
+A0016,,Tamil Nadu,13:14,Snowy,4,Minor,2,Bus,13,,,,Afternoon
+A0017,,West Bengal,14:37,Snowy,3,Minor,4,Bike,14,,,,Afternoon
+A0018,,West Bengal,08:51,Snowy,4,Minor,3,Bike,8,,,,Morning
+A0019,,Maharashtra,00:48,Snowy,3,Serious,5,Bike,0,,,,Night
+A0020,,Tamil Nadu,05:44,Foggy,4,Serious,0,Bike,5,,,,Morning
+A0021,,Karnataka,13:21,Rainy,1,Minor,3,Truck,13,,,,Afternoon
+A0022,,Delhi,08:09,Snowy,4,Fatal,0,Truck,8,,,,Morning
+A0023,,Tamil Nadu,06:48,Clear,1,Serious,0,Bike,6,,,,Morning
+A0024,,Maharashtra,10:06,Clear,4,Minor,0,Bus,10,,,,Morning
+A0025,,West Bengal,02:24,Clear,4,Serious,5,Car,2,,,,Night
+A0026,,Karnataka,03:22,Clear,2,Minor,4,Car,3,,,,Night
+A0027,,Tamil Nadu,11:38,Foggy,1,Minor,5,Bus,11,,,,Morning
+A0028,,Delhi,08:51,Clear,2,Minor,1,Bike,8,,,,Morning
+A0029,,Delhi,01:46,Snowy,1,Serious,3,Truck,1,,,,Night
+A0030,,Uttar Pradesh,14:34,Cloudy,2,Minor,4,Car,14,,,,Afternoon
+A0031,,Uttar Pradesh,03:59,Clear,3,Minor,4,Auto,3,,,,Night
+A0032,2022-01-02,Maharashtra,12:05,Foggy,4,Minor,4,Auto,12,2022.0,1.0,2.0,Afternoon
+A0033,2022-02-02,Tamil Nadu,17:18,Foggy,1,Minor,4,Bus,17,2022.0,2.0,2.0,Evening
+A0034,2022-03-02,Tamil Nadu,20:39,Clear,1,Serious,5,Bike,20,2022.0,3.0,2.0,Evening
+A0035,2022-04-02,West Bengal,11:36,Cloudy,4,Serious,4,Car,11,2022.0,4.0,2.0,Morning
+A0036,2022-05-02,West Bengal,06:45,Clear,1,Minor,2,Bike,6,2022.0,5.0,2.0,Morning
+A0037,2022-06-02,West Bengal,02:02,Foggy,1,Minor,3,Car,2,2022.0,6.0,2.0,Night
+A0038,2022-07-02,Uttar Pradesh,21:14,Rainy,2,Minor,4,Bus,21,2022.0,7.0,2.0,Night
+A0039,2022-08-02,Tamil Nadu,09:05,Snowy,1,Minor,3,Bus,9,2022.0,8.0,2.0,Morning
+A0040,2022-09-02,Tamil Nadu,07:55,Foggy,3,Minor,2,Auto,7,2022.0,9.0,2.0,Morning
+A0041,2022-10-02,Delhi,03:24,Clear,3,Minor,2,Bike,3,2022.0,10.0,2.0,Night
+A0042,2022-11-02,Uttar Pradesh,08:29,Snowy,4,Minor,3,Auto,8,2022.0,11.0,2.0,Morning
+A0043,2022-12-02,Karnataka,20:53,Clear,1,Serious,0,Bike,20,2022.0,12.0,2.0,Evening
+A0044,,Uttar Pradesh,11:10,Clear,4,Serious,1,Auto,11,,,,Morning
+A0045,,Karnataka,11:22,Rainy,3,Minor,0,Truck,11,,,,Morning
+A0046,,Delhi,06:42,Snowy,1,Minor,0,Truck,6,,,,Morning
+A0047,,Maharashtra,08:44,Snowy,1,Serious,5,Truck,8,,,,Morning
+A0048,,Tamil Nadu,21:41,Rainy,4,Minor,0,Truck,21,,,,Night
+A0049,,Delhi,02:38,Foggy,3,Serious,4,Car,2,,,,Night
+A0050,,Tamil Nadu,20:10,Clear,1,Serious,5,Truck,20,,,,Evening
+A0051,,West Bengal,17:46,Cloudy,4,Minor,5,Bus,17,,,,Evening
+A0052,,Maharashtra,07:10,Clear,3,Minor,2,Bus,7,,,,Morning
+A0053,,Maharashtra,14:24,Clear,4,Serious,0,Car,14,,,,Afternoon
+A0054,,Delhi,08:59,Foggy,2,Minor,2,Truck,8,,,,Morning
+A0055,,Maharashtra,20:44,Clear,1,Minor,3,Truck,20,,,,Evening
+A0056,,Karnataka,17:14,Rainy,2,Fatal,1,Truck,17,,,,Evening
+A0057,,Maharashtra,21:20,Rainy,3,Minor,5,Auto,21,,,,Night
+A0058,,Tamil Nadu,01:14,Snowy,2,Minor,3,Bike,1,,,,Night
+A0059,,Tamil Nadu,01:51,Cloudy,2,Serious,3,Auto,1,,,,Night
+A0060,2022-01-03,Tamil Nadu,10:25,Clear,3,Minor,4,Bike,10,2022.0,1.0,3.0,Morning
+A0061,2022-02-03,Tamil Nadu,08:04,Clear,4,Minor,1,Truck,8,2022.0,2.0,3.0,Morning
+A0062,2022-03-03,Karnataka,06:58,Foggy,2,Fatal,3,Truck,6,2022.0,3.0,3.0,Morning
+A0063,2022-04-03,Uttar Pradesh,18:56,Rainy,4,Minor,3,Auto,18,2022.0,4.0,3.0,Evening
+A0064,2022-05-03,West Bengal,22:20,Cloudy,2,Fatal,1,Auto,22,2022.0,5.0,3.0,Night
+A0065,2022-06-03,Delhi,06:41,Snowy,4,Fatal,1,Bike,6,2022.0,6.0,3.0,Morning
+A0066,2022-07-03,Tamil Nadu,15:25,Rainy,3,Minor,3,Bus,15,2022.0,7.0,3.0,Afternoon
+A0067,2022-08-03,Maharashtra,20:29,Snowy,2,Minor,1,Bike,20,2022.0,8.0,3.0,Evening
+A0068,2022-09-03,Tamil Nadu,04:16,Foggy,3,Minor,3,Auto,4,2022.0,9.0,3.0,Night
+A0069,2022-10-03,Maharashtra,04:15,Foggy,2,Minor,3,Auto,4,2022.0,10.0,3.0,Night
+A0070,2022-11-03,West Bengal,23:35,Clear,3,Minor,4,Car,23,2022.0,11.0,3.0,Night
+A0071,2022-12-03,West Bengal,17:16,Cloudy,3,Serious,0,Auto,17,2022.0,12.0,3.0,Evening
+A0072,,West Bengal,23:37,Snowy,2,Minor,3,Car,23,,,,Night
+A0073,,Maharashtra,13:57,Rainy,2,Minor,2,Bus,13,,,,Afternoon
+A0074,,Tamil Nadu,18:25,Foggy,2,Serious,5,Bike,18,,,,Evening
+A0075,,West Bengal,11:14,Clear,1,Minor,0,Bike,11,,,,Morning
+A0076,,Karnataka,04:32,Clear,4,Serious,0,Car,4,,,,Night
+A0077,,Maharashtra,15:05,Snowy,1,Minor,0,Bike,15,,,,Afternoon
+A0078,,Maharashtra,01:55,Foggy,1,Minor,4,Auto,1,,,,Night
+A0079,,Tamil Nadu,03:09,Cloudy,3,Serious,3,Truck,3,,,,Night
+A0080,,Maharashtra,20:10,Foggy,2,Serious,4,Car,20,,,,Evening
+A0081,,Maharashtra,21:27,Snowy,4,Serious,3,Bike,21,,,,Night
+A0082,,West Bengal,19:04,Snowy,3,Serious,4,Car,19,,,,Evening
+A0083,,Tamil Nadu,12:24,Foggy,1,Serious,4,Car,12,,,,Afternoon
+A0084,,West Bengal,19:29,Snowy,2,Minor,5,Truck,19,,,,Evening
+A0085,,West Bengal,16:16,Foggy,3,Minor,2,Auto,16,,,,Afternoon
+A0086,,Tamil Nadu,17:55,Rainy,2,Serious,4,Car,17,,,,Evening
+A0087,,Delhi,00:43,Foggy,3,Serious,5,Bike,0,,,,Night
+A0088,,West Bengal,23:07,Foggy,2,Fatal,1,Bus,23,,,,Night
+A0089,,Karnataka,21:56,Snowy,1,Minor,2,Car,21,,,,Night
+A0090,,Karnataka,17:48,Snowy,4,Minor,4,Car,17,,,,Evening
+A0091,2022-01-04,Maharashtra,08:49,Clear,1,Serious,0,Truck,8,2022.0,1.0,4.0,Morning
+A0092,2022-02-04,Karnataka,20:21,Clear,4,Minor,1,Auto,20,2022.0,2.0,4.0,Evening
+A0093,2022-03-04,Maharashtra,03:18,Rainy,2,Fatal,1,Bus,3,2022.0,3.0,4.0,Night
+A0094,2022-04-04,Delhi,13:10,Clear,3,Serious,5,Bike,13,2022.0,4.0,4.0,Afternoon
+A0095,2022-05-04,Tamil Nadu,14:00,Foggy,1,Minor,1,Bus,14,2022.0,5.0,4.0,Afternoon
+A0096,2022-06-04,Tamil Nadu,23:56,Snowy,4,Serious,2,Bike,23,2022.0,6.0,4.0,Night
+A0097,2022-07-04,Tamil Nadu,23:16,Clear,1,Serious,4,Auto,23,2022.0,7.0,4.0,Night
+A0098,2022-08-04,Karnataka,16:48,Clear,4,Minor,4,Bike,16,2022.0,8.0,4.0,Afternoon
+A0099,2022-09-04,Delhi,05:32,Rainy,1,Fatal,0,Truck,5,2022.0,9.0,4.0,Morning
+A0100,2022-10-04,Karnataka,03:55,Rainy,4,Minor,5,Truck,3,2022.0,10.0,4.0,Night
+A0101,2022-11-04,Karnataka,20:19,Foggy,4,Serious,0,Truck,20,2022.0,11.0,4.0,Evening
+A0102,2022-12-04,Delhi,20:32,Snowy,2,Minor,1,Truck,20,2022.0,12.0,4.0,Evening
+A0103,,Delhi,19:12,Rainy,4,Serious,0,Bus,19,,,,Evening
+A0104,,Delhi,04:23,Clear,2,Minor,2,Auto,4,,,,Night
+A0105,,Delhi,05:34,Snowy,4,Minor,4,Bike,5,,,,Morning
+A0106,,Tamil Nadu,16:58,Snowy,3,Fatal,1,Bike,16,,,,Afternoon
+A0107,,Uttar Pradesh,00:38,Clear,3,Minor,0,Truck,0,,,,Night
+A0108,,Uttar Pradesh,10:31,Rainy,3,Minor,5,Truck,10,,,,Morning
+A0109,,Delhi,00:07,Clear,4,Fatal,2,Car,0,,,,Night
+A0110,,Uttar Pradesh,11:56,Snowy,2,Fatal,2,Auto,11,,,,Morning
+A0111,,Uttar Pradesh,09:15,Cloudy,2,Minor,0,Bus,9,,,,Morning
+A0112,,Delhi,01:15,Cloudy,4,Serious,4,Bike,1,,,,Night
+A0113,,Uttar Pradesh,18:05,Foggy,3,Minor,0,Car,18,,,,Evening
+A0114,,Karnataka,02:46,Clear,3,Minor,1,Car,2,,,,Night
+A0115,,Maharashtra,15:52,Clear,2,Minor,0,Bike,15,,,,Afternoon
+A0116,,Maharashtra,02:48,Foggy,3,Serious,2,Bus,2,,,,Night
+A0117,,Delhi,17:49,Foggy,1,Serious,0,Car,17,,,,Evening
+A0118,,Tamil Nadu,04:08,Foggy,2,Serious,4,Car,4,,,,Night
+A0119,,Delhi,21:30,Snowy,3,Serious,5,Auto,21,,,,Night
+A0120,,Tamil Nadu,17:10,Clear,2,Minor,3,Bus,17,,,,Evening
+A0121,2022-01-05,Maharashtra,08:33,Snowy,1,Minor,0,Car,8,2022.0,1.0,5.0,Morning
+A0122,2022-02-05,Delhi,19:27,Foggy,2,Minor,4,Bus,19,2022.0,2.0,5.0,Evening
+A0123,2022-03-05,West Bengal,06:59,Clear,2,Minor,4,Bike,6,2022.0,3.0,5.0,Morning
+A0124,2022-04-05,Karnataka,17:48,Snowy,2,Minor,5,Truck,17,2022.0,4.0,5.0,Evening
+A0125,2022-05-05,Uttar Pradesh,23:44,Snowy,2,Serious,2,Car,23,2022.0,5.0,5.0,Night
+A0126,2022-06-05,Tamil Nadu,06:45,Foggy,1,Minor,4,Auto,6,2022.0,6.0,5.0,Morning
+A0127,2022-07-05,West Bengal,09:25,Clear,4,Minor,4,Bike,9,2022.0,7.0,5.0,Morning
+A0128,2022-08-05,Uttar Pradesh,21:41,Foggy,2,Minor,4,Bus,21,2022.0,8.0,5.0,Night
+A0129,2022-09-05,Uttar Pradesh,11:28,Clear,2,Serious,4,Bike,11,2022.0,9.0,5.0,Morning
+A0130,2022-10-05,Delhi,16:28,Cloudy,3,Serious,1,Car,16,2022.0,10.0,5.0,Afternoon
+A0131,2022-11-05,Uttar Pradesh,03:15,Rainy,2,Minor,1,Bus,3,2022.0,11.0,5.0,Night
+A0132,2022-12-05,Karnataka,07:04,Rainy,3,Minor,2,Truck,7,2022.0,12.0,5.0,Morning
+A0133,,West Bengal,10:01,Rainy,4,Serious,0,Bike,10,,,,Morning
+A0134,,Uttar Pradesh,18:35,Foggy,1,Minor,4,Car,18,,,,Evening
+A0135,,Delhi,07:37,Cloudy,1,Serious,5,Auto,7,,,,Morning
+A0136,,Karnataka,07:00,Clear,4,Serious,0,Bus,7,,,,Morning
+A0137,,Maharashtra,02:45,Snowy,1,Minor,5,Bike,2,,,,Night
+A0138,,West Bengal,20:03,Clear,4,Minor,0,Bike,20,,,,Evening
+A0139,,Uttar Pradesh,07:04,Snowy,4,Fatal,2,Truck,7,,,,Morning
+A0140,,Delhi,01:55,Clear,4,Minor,4,Truck,1,,,,Night
+A0141,,Maharashtra,10:04,Cloudy,1,Minor,4,Auto,10,,,,Morning
+A0142,,Maharashtra,16:15,Snowy,3,Serious,3,Auto,16,,,,Afternoon
+A0143,,Tamil Nadu,08:42,Foggy,4,Fatal,5,Car,8,,,,Morning
+A0144,,Karnataka,15:13,Clear,2,Fatal,0,Car,15,,,,Afternoon
+A0145,,Uttar Pradesh,17:08,Clear,1,Serious,0,Auto,17,,,,Evening
+A0146,,Delhi,23:59,Snowy,4,Minor,1,Auto,23,,,,Night
+A0147,,Tamil Nadu,18:36,Foggy,4,Minor,3,Bus,18,,,,Evening
+A0148,,Karnataka,15:15,Foggy,2,Serious,1,Truck,15,,,,Afternoon
+A0149,,Tamil Nadu,15:51,Cloudy,3,Minor,1,Car,15,,,,Afternoon
+A0150,,West Bengal,13:12,Foggy,3,Minor,1,Truck,13,,,,Afternoon
